@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Abdulaziz
-- 👀 I’m interested in Networking engineering and cypersecurity 
-- 🌱 I’m currently learning python , swift
+- Hi, I’m Abdulaziz
+- I’m interested in Networking engineering and cypersecurity 
+- I’m currently learning python , swift
 - 📫 How to reach me : Twiter : 4c1w_
 
 <!---
